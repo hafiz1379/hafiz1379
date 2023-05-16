@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafiz1379&label=Profile%20views&color=0e75b6&style=flat" alt="hafiz1379" /> </p>
 
-
 - 💬 Ask me about **HTML and CSS**
 
 <h3 align="left">Connect with me:</h3>
