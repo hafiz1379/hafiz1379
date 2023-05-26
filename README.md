@@ -5,11 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafiz1379&label=Profile%20views&color=0e75b6&style=flat" alt="hafiz1379" /> </p>
 
 
-- 🌱 I’m currently student at **Microvers**
+- 🌱 I’m currently student at **Microverse**
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
-- 📫 How to reach me **hafizrasa1379@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hafizrasa1379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hafizrasa1379" height="30" width="40" /></a>
