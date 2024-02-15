@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently a student at **Microverse**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Ruby and Ruby on Rails**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Ruby, Ruby on Rails and Nodejs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
