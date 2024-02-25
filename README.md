@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafiz1379&label=Profile%20views&color=0e75b6&style=flat" alt="hafiz1379" /> </p>
 
 
-- 🌱 I’m currently a student at **Microverse**
+- 🎓 I'm a proud graduate of **Microverse**, having successfully completed my studies there.
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Ruby, Ruby on Rails and Nodejs**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Nodejs, Express, Ruby, and Ruby on Rails**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
