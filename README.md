@@ -44,7 +44,7 @@
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafiz1379&show_icons=true&locale=en&layout=compact" alt="hafiz1379" height="170"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafiz1379&show_icons=true&locale=en&layout=compact" alt="hafiz1379" height="180"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafiz1379&show_icons=true&locale=en" alt="hafiz1379" /></p>
 
