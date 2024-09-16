@@ -76,8 +76,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafiz1379&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="190" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hafiz1379&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hafiz1379&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="190" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hafiz1379&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
