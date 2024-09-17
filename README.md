@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=hafiz1379&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🎓 I'm a proud graduate of **Microverse**, having successfully completed my studies there.
+- 🎓 I'm a proud graduate of **Microverse** and hold a degree in **Software Engineering** from university, having successfully completed my studies in both.
   
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express, Ruby, and Ruby on Rails**
 
