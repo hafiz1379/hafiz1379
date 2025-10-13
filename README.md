@@ -50,9 +50,10 @@
   />
 </div>
 
-<p style="text-align: center;">
+<p style="align: center;">
   💬 HTML, CSS, JavaScript, React, Node.js, Express, Ruby, and Ruby on Rails
 </p>
+
 ---
 
 <h3 align="center">
