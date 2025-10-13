@@ -34,16 +34,25 @@
   🎓 I'm a proud graduate of <strong>Microverse</strong> and hold a degree in <strong>Software Engineering</strong> from university, having successfully completed my studies in both.
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" />
+<div style="text-align: center;">
+  <img 
+    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" 
+    alt="Thinking Face" 
+    width="25" 
+    height="25"
+  />
   <strong>Ask me about</strong>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" />
+  <img 
+    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" 
+    alt="Thinking Face" 
+    width="25" 
+    height="25"
+  />
 </div>
 
-<p align="center">
+<p style="text-align: center;">
   💬 HTML, CSS, JavaScript, React, Node.js, Express, Ruby, and Ruby on Rails
 </p>
-
 ---
 
 <h3 align="center">
