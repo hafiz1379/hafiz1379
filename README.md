@@ -34,7 +34,7 @@
   🎓 I'm a proud graduate of <strong>Microverse</strong> and hold a degree in <strong>Software Engineering</strong> from university, having successfully completed my studies in both.
 </p>
 
-<div style="text-align: center;">
+<div align="center">
   <img 
     src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" 
     alt="Thinking Face" 
@@ -50,7 +50,7 @@
   />
 </div>
 
-<p style="align: center;">
+<p align="center">
   💬 HTML, CSS, JavaScript, React, Node.js, Express, Ruby, and Ruby on Rails
 </p>
 
