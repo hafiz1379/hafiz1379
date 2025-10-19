@@ -2,20 +2,20 @@
   <img src="https://raw.githubusercontent.com/hafiz1379/hafiz1379/main/banner.gif" alt="Header Banner" width="100%">
 </div>
 
-<h1 align="center">
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-top: 20px;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
   Hi, I'm Hafizullah Rasa
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
 </h1>
 
-<h3 align="center">
+<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #039BE5; font-weight: 500;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" />
   A passionate Full-Stack Developer
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" />
 </h3>
 
-<div align="center">
-  <img src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif" alt="Coding" width="400" height="250">
+<div align="center" style="margin: 20px 0;">
+  <img src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif" alt="Coding" width="400" height="250" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 <p align="center">
@@ -24,24 +24,24 @@
 
 ---
 
-<div align="center">
+<div align="center" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" />
-  <strong>Education</strong>
+  <strong style="color: #039BE5;">Education</strong>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" />
 </div>
 
-<p align="center">
+<p align="center" style="max-width: 700px; margin: 0 auto; line-height: 1.6;">
   🎓 I'm a proud graduate of <strong>Microverse</strong> and hold a degree in <strong>Software Engineering</strong> from university, having successfully completed my studies in both.
 </p>
 
-<div align="center">
+<div align="center" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; margin: 20px 0;">
   <img 
     src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" 
     alt="Thinking Face" 
     width="25" 
     height="25"
   />
-  <strong>Ask me about</strong>
+  <strong style="color: #039BE5;">Ask me about</strong>
   <img 
     src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" 
     alt="Thinking Face" 
@@ -50,46 +50,46 @@
   />
 </div>
 
-<p align="center">
+<p align="center" style="max-width: 700px; margin: 0 auto; line-height: 1.6;">
   💬 HTML, CSS, JavaScript, React, Node.js, Express, Ruby, and Ruby on Rails
 </p>
 
 ---
 
-<h3 align="center">
+<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #039BE5;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />
   Languages and Tools
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />
 </h3>
 
-<div align="center">
-  <table>
+<div align="center" style="margin: 20px 0;">
+  <table style="border-collapse: separate; border-spacing: 10px;">
     <tr>
-      <td align="center" width="96">
+      <td align="center" width="96" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
         </a>
         <br>HTML5
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
         </a>
         <br>CSS3
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
         </a>
         <br>Sass
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
           <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> 
   </a>
         <br>Tailwind
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
         </a>
@@ -97,31 +97,31 @@
       </td>
     </tr>
     <tr>
-      <td align="center" width="96">
+      <td align="center" width="96" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
         </a>
         <br>JavaScript
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
         </a>
         <br>React
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
         </a>
         <br>Node.js
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <a href="https://expressjs.com" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
         </a>
         <br>Express
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
         </a>
@@ -129,29 +129,29 @@
       </td>
     </tr>
     <tr>
-      <td align="center" width="96">
+      <td align="center" width="96" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
         <br>Rails
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
         </a>
         <br>MongoDB
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
         </a>
         <br>MySQL
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
         </a>
         <br>PostgreSQL
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
         </a>
@@ -159,31 +159,31 @@
       </td>
     </tr>
     <tr>
-      <td align="center" width="96">
+      <td align="center" width="96" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <a href="https://jestjs.io" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
         </a>
         <br>Jest
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/>
         </a>
         <br>Webpack
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <a href="https://postman.com" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
         </a>
         <br>Postman
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <a href="https://github.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
         </a>
         <br>GitHub
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
         </a>
