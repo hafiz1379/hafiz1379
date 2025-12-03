@@ -31,7 +31,7 @@
 </div>
 
 <p align="center" style="max-width: 700px; margin: 0 auto; line-height: 1.6;">
-  🎓 I'm a proud graduate of <strong>Microverse</strong> and hold a degree in <strong>Software Engineering</strong> from university, having successfully completed my studies in both.
+  With a <strong>Software Engineering degree</strong> and graduation from the <strong>Microverse remote development program</strong>, I bring a strong foundation in computer science, backed by hands-on experience building scalable web applications with international teams.
 </p>
 
 <div align="center" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; margin: 20px 0;">
