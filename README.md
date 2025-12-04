@@ -35,23 +35,13 @@
 </p>
 
 <div align="center" style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; margin: 20px 0;">
-  <img 
-    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" 
-    alt="Thinking Face" 
-    width="25" 
-    height="25"
-  />
-  <strong style="color: #039BE5;">Ask me about</strong>
-  <img 
-    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" 
-    alt="Thinking Face" 
-    width="25" 
-    height="25"
-  />
+  <strong style="color: #039BE5;">Skills & Expertise</strong>
 </div>
 
 <p align="center" style="max-width: 700px; margin: 0 auto; line-height: 1.6;">
-  💬 HTML, CSS, JavaScript, React, Node.js, Express, Ruby, and Ruby on Rails
+  Front-end: HTML, CSS, Tailwind CSS, JavaScript, React <br/>
+  Back-end: Node.js, Express, Ruby, Ruby on Rails <br/>
+  Databases: PostgreSQL, MySQL, MongoDB
 </p>
 
 ---
