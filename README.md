@@ -40,7 +40,7 @@
 
 <p align="center" style="max-width: 700px; margin: 0 auto; line-height: 1.6;">
   Front-end: JavaScript, Reactjs, Redux, HTML5, CSS3, Tailwind CSS, Bootstrap <br/>
-  Back-end: Node.js, Express, Ruby, Ruby on Rails <br/>
+  Back-end: Nodejs, Expressjs, Ruby, Rails, MongoDB, MySQL, PostgreSQL, RestAPI <br/>
   Databases: PostgreSQL, MySQL, MongoDB
 </p>
 
