@@ -41,7 +41,8 @@
 <p align="center" style="max-width: 700px; margin: 0 auto; line-height: 1.6;">
   Front-end: JavaScript, Reactjs, Redux, HTML5, CSS3, Tailwind CSS, Bootstrap <br/>
   Back-end: Nodejs, Expressjs, Ruby, Rails, MongoDB, MySQL, PostgreSQL, RestAPI <br/>
-  Tools & Methods: Git, GitHub, Mobile/Responsive Development, RSpec, Chrome Dev Tools
+  Tools & Methods: Git, GitHub, Mobile/Responsive Development, RSpec, Chrome Dev Tools <br/>
+  Professional: Remote Pair-Programming, Teamwork, Mentoring, Solving Problem
 </p>
 
 ---
