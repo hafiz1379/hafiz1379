@@ -214,7 +214,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafiz1379&bg_color=ffffff&color=000000&line=039BE5&point=FF9800&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
-
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
   Connect with me
