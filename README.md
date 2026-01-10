@@ -211,7 +211,7 @@
 </h3>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hafiz1379&bg_color=ffffff&color=000000&line=039BE5&point=FF9800&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafiz1379&bg_color=ffffff&color=000000&line=039BE5&point=FF9800&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <h3 align="center">
