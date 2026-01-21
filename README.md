@@ -204,12 +204,6 @@
 
 ---
 
-<h3 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" alt="Fire" width="25" height="25" />
-  Activity Graph
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" alt="Fire" width="25" height="25" />
-</h3>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafiz1379&bg_color=ffffff&color=000000&line=039BE5&point=FF9800&area=true&hide_border=true" alt="Activity Graph" />
 </div>
