@@ -2,6 +2,7 @@
   <img src="https://raw.githubusercontent.com/hafiz1379/hafiz1379/main/banner.gif" alt="Header Banner" width="100%">
 </div>
 
+
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-top: 20px;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
   Hi, I'm Hafizullah Rasa
